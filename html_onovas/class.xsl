@@ -143,7 +143,7 @@
         <xsl:if test="//pdx:enrichment[@type = 'git']">
         <li><a href="#history">Historial</a></li>
         </xsl:if>
-        <xsl:if test="$unit/@start"><!-- hack: test for start line == we know something about this class -->
+        <xsl:if test="$unit/@start">
         <li><a href="{$base}source/{$unit/pdx:file/@relative}.{$extension}#line{$unit/@start}">Código Fuente</a></li>
         </xsl:if>
       </ul>

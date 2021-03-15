@@ -31,8 +31,8 @@ momento.
 
 [mi-web]: https://oscarnovas.com "for developers"
 
-[version]: v0.0.1
-[version-badge]: https://img.shields.io/badge/version-0.0.1-blue.svg
+[version]: v0.0.2
+[version-badge]: https://img.shields.io/badge/version-0.0.2-blue.svg
 
 [license]: LICENSE.md
 [license-badge]: https://img.shields.io/github/license/oscarnovasf/phpdox-template "Leer la licencia"
